@@ -1,0 +1,3 @@
+# Cloudflare Pages — URL redirects
+# www -> root domain (301 permanent)
+https://www.weighbridgesetu.com/* https://weighbridgesetu.com/:splat 301

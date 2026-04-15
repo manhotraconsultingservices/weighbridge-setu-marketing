@@ -1,0 +1,11 @@
+# WeighbridgeSetu — robots.txt
+# https://weighbridgesetu.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://weighbridgesetu.com/sitemap.xml
+
+# Crawl-delay (optional, respected by some crawlers)
+Crawl-delay: 1
